@@ -13,7 +13,7 @@
     "additionalProperties": false,
     "properties": {
       "id": {
-        "type": "string"//"integer"
+        "type": "integer"
       },
       "name": {
         "type": "string",
