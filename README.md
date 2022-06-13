@@ -1,0 +1,1 @@
+[![Сборка status](https://ci.appveyor.com/api/projects/status/rkq7xnivrdhselra/branch/main?svg=true)](https://ci.appveyor.com/project/JuliyaSalam/ci21/branch/main)
